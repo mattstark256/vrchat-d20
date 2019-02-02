@@ -27,6 +27,10 @@ ModelImporter:
     100042: South_Room_Wall_003
     100044: Sparky_s_Room
     100046: Tavi_s_Room
+    100048: Kitchen_Collider
+    100050: Fridge_Tall
+    100052: Armchair
+    100054: Sofa
     400000: Blueprint
     400002: Charlie_s_Room
     400004: Chris_s_Room
@@ -51,8 +55,17 @@ ModelImporter:
     400042: South_Room_Wall_003
     400044: Sparky_s_Room
     400046: Tavi_s_Room
+    400048: Kitchen_Collider
+    400050: Fridge_Tall
+    400052: Armchair
+    400054: Sofa
     2100000: unnamed
     2100002: Blueprint
+    2100004: Wall
+    2100006: Countertop
+    2100008: Wood
+    2100010: Floor_Kitchen
+    2100012: Chrome
     2300000: Blueprint
     2300002: Charlie_s_Room
     2300004: Chris_s_Room
@@ -76,6 +89,10 @@ ModelImporter:
     2300040: South_Room_Wall_003
     2300042: Sparky_s_Room
     2300044: Tavi_s_Room
+    2300046: Kitchen_Collider
+    2300048: Fridge_Tall
+    2300050: Armchair
+    2300052: Sofa
     3300000: Blueprint
     3300002: Charlie_s_Room
     3300004: Chris_s_Room
@@ -99,6 +116,10 @@ ModelImporter:
     3300040: South_Room_Wall_003
     3300042: Sparky_s_Room
     3300044: Tavi_s_Room
+    3300046: Kitchen_Collider
+    3300048: Fridge_Tall
+    3300050: Armchair
+    3300052: Sofa
     4300000: Kitchen_001
     4300002: South_Room_Wall_003
     4300004: South_Room_Wall_002
@@ -122,6 +143,10 @@ ModelImporter:
     4300040: Charlie_s_Room
     4300042: Matt_s_Room
     4300044: Blueprint
+    4300046: Kitchen_Collider
+    4300048: Fridge_Tall
+    4300050: Armchair
+    4300052: Sofa
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
