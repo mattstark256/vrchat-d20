@@ -38,6 +38,14 @@ ModelImporter:
     100064: Sofa_2
     100066: Fridge_Small
     100068: Door_Frame
+    100070: Microwave
+    100072: Table
+    100074: Big_TV
+    100076: TV_Big
+    100078: TV_Small
+    100080: Cylinder
+    100082: Stool
+    100084: Stool_No_Slits
     400000: Blueprint
     400002: Charlie_s_Room
     400004: Chris_s_Room
@@ -73,6 +81,14 @@ ModelImporter:
     400064: Sofa_2
     400066: Fridge_Small
     400068: Door_Frame
+    400070: Microwave
+    400072: Table
+    400074: Big_TV
+    400076: TV_Big
+    400078: TV_Small
+    400080: Cylinder
+    400082: Stool
+    400084: Stool_No_Slits
     2100000: unnamed
     2100002: Blueprint
     2100004: Wall
@@ -86,6 +102,7 @@ ModelImporter:
     2100020: Lamp
     2100022: Lamp_off
     2100024: Lamp_on
+    2100026: Kitchen_Walls
     2300000: Blueprint
     2300002: Charlie_s_Room
     2300004: Chris_s_Room
@@ -120,6 +137,14 @@ ModelImporter:
     2300062: Sofa_2
     2300064: Fridge_Small
     2300066: Door_Frame
+    2300068: Microwave
+    2300070: Table
+    2300072: Big_TV
+    2300074: TV_Big
+    2300076: TV_Small
+    2300078: Cylinder
+    2300080: Stool
+    2300082: Stool_No_Slits
     3300000: Blueprint
     3300002: Charlie_s_Room
     3300004: Chris_s_Room
@@ -154,6 +179,14 @@ ModelImporter:
     3300062: Sofa_2
     3300064: Fridge_Small
     3300066: Door_Frame
+    3300068: Microwave
+    3300070: Table
+    3300072: Big_TV
+    3300074: TV_Big
+    3300076: TV_Small
+    3300078: Cylinder
+    3300080: Stool
+    3300082: Stool_No_Slits
     4300000: Kitchen_001
     4300002: South_Room_Wall_003
     4300004: South_Room_Wall_002
@@ -188,6 +221,14 @@ ModelImporter:
     4300062: Sofa_2
     4300064: Fridge_Small
     4300066: Door_Frame
+    4300068: Microwave
+    4300070: Table
+    4300072: Big_TV
+    4300074: TV_Small
+    4300076: TV_Big
+    4300078: Cylinder
+    4300080: Stool
+    4300082: Stool_No_Slits
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
